@@ -1,0 +1,44 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+.header{
+  /* width: fit-content;
+  margin: 10px auto;
+  padding: 10px; */
+  text-align: center;
+  text-decoration: underline;
+  
+}
+img{
+  width: 280px;
+  height: 280px;
+   padding: 15px; 
+  border: 1px solid grey;
+  
+}
+.book{
+  
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+ 
+  padding: 25px;
+  margin: 0 18px;
+}
+#title{
+  font-size: 15.5px;
+}
+#author{
+  font-style: italic;
+}
+a{
+  text-decoration: none;
+}
+.booklist{
+  width: fit-content;
+  margin: 20px auto;
+  padding: 10px;
+ 
+}
